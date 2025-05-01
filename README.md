@@ -28,7 +28,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loupdo&show_icons=true&locale=en&layout=compact" alt="loupdo" /></p>
 
 ## Porfolio:
-###🕯️Candle Shop:
+### 🕯️ Candle Shop:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -76,7 +76,7 @@ Github repo: [https://github.com/Loupdo/frontend-Itunesfav](https://github.com/L
 
 Github repo backend: [https://github.com/Loupdo/backend-Itunesfav](https://github.com/Loupdo/backend-Itunesfav)
 
-🌐 Live Demo: [https://shop-4-all.vercel.app/](https://shop-4-all.vercel.app/)
+🌐 Live Demo: [https://frontend-itunesfav.onrender.com/](https://frontend-itunesfav.onrender.com/)
 
 ![image](https://github.com/user-attachments/assets/1311a846-975c-45c6-9ea3-12dbae79c145)
 
