@@ -25,6 +25,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loupdo&show_icons=true&locale=en&layout=compact" alt="loupdo" /></p>
+
 ## Porfolio:
 ###🕯️Candle Shop:
 
